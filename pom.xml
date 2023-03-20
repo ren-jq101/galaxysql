@@ -144,7 +144,7 @@
         <hadoop-client.version>3.2.4</hadoop-client.version>
 
         <!-- for common -->
-        <log4j-api.version>2.5</log4j-api.version>
+        <log4j-api.version>2.20.0</log4j-api.version>
         <antlr4.version>4.7</antlr4.version>
         <commons-dbutils.version>1.6</commons-dbutils.version>
         <joda-time.version>2.9.9</joda-time.version>
