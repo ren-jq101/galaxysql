@@ -134,7 +134,7 @@
         <commons-lang.version>2.6</commons-lang.version>
         <commons-io.version>2.7</commons-io.version>
         <commons-pool.version>1.6</commons-pool.version>
-        <guava.version>30.1.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <fastjson.version>1.2.67</fastjson.version>
         <druid.version>1.2.4</druid.version>
         <netty.version>4.1.44.Final</netty.version>
