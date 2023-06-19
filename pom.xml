@@ -85,7 +85,7 @@
         <aircompressor.version>0.4</aircompressor.version>
         <resolver.version>1.3</resolver.version>
         <airline.version>0.7</airline.version>
-        <discovery.version>1.29</discovery.version>
+        <discovery.version>1.34</discovery.version>
         <drill.freemarker.maven.plugin.version>1.17.0</drill.freemarker.maven.plugin.version>
         <codegen.compile.skip>false</codegen.compile.skip>
         <codegen.clean.skip>false</codegen.clean.skip>
@@ -134,14 +134,14 @@
         <commons-lang.version>2.6</commons-lang.version>
         <commons-io.version>2.7</commons-io.version>
         <commons-pool.version>1.6</commons-pool.version>
-        <guava.version>30.1.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <fastjson.version>1.2.67</fastjson.version>
         <druid.version>1.2.4</druid.version>
         <netty.version>4.1.44.Final</netty.version>
         <protobuf.version>3.11.1</protobuf.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <grpc.version>1.30.0</grpc.version>
-        <hadoop-client.version>3.2.4</hadoop-client.version>
+        <hadoop-client.version>3.3.1</hadoop-client.version>
 
         <!-- for common -->
         <log4j-api.version>2.5</log4j-api.version>
