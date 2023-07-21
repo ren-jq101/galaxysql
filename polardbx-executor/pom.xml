@@ -13,7 +13,7 @@
     <name>${project.artifactId} module for polardbx ${project.version}</name>
 
     <properties>
-        <dep.airlift.version>0.178</dep.airlift.version>
+        <dep.airlift.version>235</dep.airlift.version>
         <orc.version>1.6.9</orc.version>
         <aliyun-sdk-oss.version>3.10.2</aliyun-sdk-oss.version>
         <hadoop-aliyun.version>3.2.2</hadoop-aliyun.version>
