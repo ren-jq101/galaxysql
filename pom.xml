@@ -141,7 +141,7 @@
         <protobuf.version>3.11.1</protobuf.version>
         <protobuf-java-format.version>1.4</protobuf-java-format.version>
         <grpc.version>1.30.0</grpc.version>
-        <hadoop-client.version>3.2.4</hadoop-client.version>
+        <hadoop-client.version>3.3.4</hadoop-client.version>
 
         <!-- for common -->
         <log4j-api.version>2.5</log4j-api.version>
