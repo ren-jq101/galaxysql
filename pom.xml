@@ -93,7 +93,7 @@
 
         <!-- calcite -->
         <avatica.core.version>1.10.0</avatica.core.version>
-        <calcite-linq4j.version>1.14.0</calcite-linq4j.version>
+        <calcite-linq4j.version>1.36.0</calcite-linq4j.version>
         <avatica-serve.version>1.9.0</avatica-serve.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
